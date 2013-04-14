@@ -10,6 +10,6 @@ version = '1.0'
 
 jar {
     manifest {
-            attributes 'Implementation-Title': 'Dining Philosophers Problem', 'Implementation-Version': version
+            attributes 'Implementation-Title': 'POSA', 'Implementation-Version': version
     }
 }
